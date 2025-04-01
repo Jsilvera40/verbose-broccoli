@@ -2,8 +2,8 @@ body {
     font-family: papyrus, Fantasy;
     text-align: center;
     padding: 20px;
-    transition: background 0.3s, color 0.3s;
-    background: #00ffcc;
+    transition: background 0.5s, color 0.3s;
+    background: #00cfcc;
     color: #283;
 }
 
