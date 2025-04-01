@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Papyrus, Fantasy;
     text-align: center;
     padding: 20px;
     transition: background 0.3s, color 0.3s;
@@ -48,7 +48,7 @@ li {
 
 .dark-mode {
     background-color: #111;
-    color: red;
+    color: green;
 }
 
 .dark-mode .container {
