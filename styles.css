@@ -4,7 +4,7 @@ body {
     padding: 20px;
     transition: background 0.3s, color 0.3s;
     background: #00ffcc;
-    color: #333;
+    color: #283;
 }
 
 .container {
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-    background: #0056b3;
+    background: #0056b4;
 }
 
 ul {
@@ -47,7 +47,7 @@ li {
 }
 
 .dark-mode {
-    background-color: #111;
+    background-color: #157;
     color: green;
 }
 
